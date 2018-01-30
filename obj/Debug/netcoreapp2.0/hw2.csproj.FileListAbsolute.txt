@@ -1,0 +1,10 @@
+D:\program2\practice\hw2\bin\Debug\netcoreapp2.0\hw2.deps.json
+D:\program2\practice\hw2\bin\Debug\netcoreapp2.0\hw2.runtimeconfig.json
+D:\program2\practice\hw2\bin\Debug\netcoreapp2.0\hw2.runtimeconfig.dev.json
+D:\program2\practice\hw2\bin\Debug\netcoreapp2.0\hw2.dll
+D:\program2\practice\hw2\bin\Debug\netcoreapp2.0\hw2.pdb
+D:\program2\practice\hw2\obj\Debug\netcoreapp2.0\hw2.csproj.CoreCompileInputs.cache
+D:\program2\practice\hw2\obj\Debug\netcoreapp2.0\hw2.AssemblyInfoInputs.cache
+D:\program2\practice\hw2\obj\Debug\netcoreapp2.0\hw2.AssemblyInfo.cs
+D:\program2\practice\hw2\obj\Debug\netcoreapp2.0\hw2.dll
+D:\program2\practice\hw2\obj\Debug\netcoreapp2.0\hw2.pdb
